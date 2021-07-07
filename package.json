@@ -5,7 +5,7 @@
   "description": "TronBox - Simple development framework for Tron",
   "dependencies": {
     "@truffle/contract-sources": "^0.1.6",
-    "@truffle/error": "0.0.7",
+    "@truffle/error": "0.0.14",
     "@truffle/expect": "0.0.11",
     "@truffle/solidity-utils": "^1.2.5",
     "ajv": "^6.10.2",
