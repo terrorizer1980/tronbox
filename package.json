@@ -35,7 +35,7 @@
     "node-dir": "0.1.17",
     "node-emoji": "^1.8.1",
     "original-require": "1.0.1",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "safe-eval": "^0.4.1",
     "semver": "^6.1.1",
     "serve-static": "^1.10.0",
