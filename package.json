@@ -38,7 +38,7 @@
     "request": "^2.88.0",
     "safe-eval": "^0.4.1",
     "semver": "^6.1.1",
-    "serve-static": "^1.10.0",
+    "serve-static": "^1.16.1",
     "solc": "0.5.9",
     "source-map-support": "^0.5.3",
     "spawn-args": "^0.1.0",
